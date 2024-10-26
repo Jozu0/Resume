@@ -240,7 +240,7 @@ i{
     pointer-events: none;
 
 }
-.git, .leetcode{
+.git, .codinggame{
     display:flex;
     align-items: center;
     justify-content: center;
@@ -446,7 +446,7 @@ i{
     left:20px;
     top:20px;
 }
-.tbar2a p, .tbar2b p, .tbar2c p{
+.tbar2a p, .tbar2b p, .tbar2c p, .tbar2d{
     font-size:12px;
     margin-left:0;
     margin-top:0px;
